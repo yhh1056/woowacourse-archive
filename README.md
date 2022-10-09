@@ -39,14 +39,9 @@
 
 | Project | Period | Repository |
 |:-----:|:-----:|:---:|
-|톰캣 구현|`2022-08-30` ~ `2022-09-13`|[repository]|
-|@MVC 프레임워크 구현|`2022-09-16` ~ `2022-09-29`|[repository]|
+|톰캣 구현|`2022-08-30` ~ `2022-09-13`|[repository](https://github.com/yhh1056/jwp-dashboard-http)|
+|@MVC 프레임워크 구현|`2022-09-16` ~ `2022-09-29`|[repository](https://github.com/yhh1056/jwp-dashboard-mvc)|
 |JDBC 라이브러리 구현|`2022-10-04` ~ `2022-10-14`|[repository]|
 
 
-<br/>
 
-## 💜 Study
-
-| Project | Period | Repository |
-|:---:|:---:|:---:|
